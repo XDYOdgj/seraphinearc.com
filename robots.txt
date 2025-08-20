@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seraphinearc.com/sitemap.xml
